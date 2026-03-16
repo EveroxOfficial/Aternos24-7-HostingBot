@@ -9,7 +9,7 @@
     "ip": "EverCraft2-0.aternos.me",
     "port": 42479,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "Moje pohlavie je: ???",
